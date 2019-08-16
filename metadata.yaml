@@ -1,0 +1,31 @@
+_repo: Horses-and-Men-Tales-long-and-short-from-our-American-life_60097
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Sherwood
+    alias: Fever, Buck
+    birthdate: 1876
+    deathdate: 1941
+    gutenberg_agent_id: '231'
+    url: http://www.gutenberg.org/2009/agents/231
+    wikipedia: http://en.wikipedia.org/wiki/Sherwood_Anderson
+description: ''
+gutenberg_issued: '2019-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60097'
+  lccn: '24003399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Foreword -- Dreiser -- I'm a fool -- The triumph of a modern -- "Unused"
+  -- A Chicago Hamlet -- The man who became a woman -- Milk bottles -- The sad horn
+  blowers -- The man's story -- An Ohio pagan.
+title: 'Horses and Men: Tales, long and short, from our American life'
+url: http://www.gutenberg.org/ebooks/60097
